@@ -2,7 +2,7 @@
 
 ## 2025
 - Netократия. Новая правящая элита и жизнь после капитализма. *(Бард А., Зодерквист Я)*
-- [Просто продолжай покупать. *(Ник Маджулли)*](https://github.com/lsgsk/Books/blob/main/Notes/Prosto_prodolzhaj_pokupat.md)
+- [Просто продолжай покупать. *(Ник Маджулли)*](https://github.com/lsgsk/quotes/blob/main/Prosto_prodolzhaj_pokupat.md)
 
 ## 2024
 - Империализм, как высшая стадия капитализма. *(В.И. Ленин)*
